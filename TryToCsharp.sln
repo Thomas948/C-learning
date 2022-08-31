@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "回合制对战", "回合�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week3", "Week3\Week3.csproj", "{49319930-5EC1-4591-9D0C-2FB2C49B9662}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week12", "Week12\Week12.csproj", "{5E4F5C4F-DC85-4587-BFFE-6289F8A3C89A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{49319930-5EC1-4591-9D0C-2FB2C49B9662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49319930-5EC1-4591-9D0C-2FB2C49B9662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49319930-5EC1-4591-9D0C-2FB2C49B9662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E4F5C4F-DC85-4587-BFFE-6289F8A3C89A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E4F5C4F-DC85-4587-BFFE-6289F8A3C89A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E4F5C4F-DC85-4587-BFFE-6289F8A3C89A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E4F5C4F-DC85-4587-BFFE-6289F8A3C89A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
